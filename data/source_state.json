@@ -1,1 +1,7 @@
-{}
+{
+  "https://dep.nj.gov/nese/": "24177b00658f8dc56d9bb860d805e798b10a98ae0ef94cc85611c7f8370de54f",
+  "https://www.williams.com/nese-njdep-application/": "d63e5f8e35c1abf3f4038cc441c51483ed205b157d8afe9a3560011f5253f322",
+  "https://dep.nj.gov/bulletin/": "871974541105db9f4a657d5b06155a64c285c9d3cc9e92235803146330ba7b95",
+  "https://dec.ny.gov/news/environmental-notice-bulletin": "c7160b8ce235635bf006d8c1b842e052b68ea1a7bf8d8071163cf8936fe12bd2",
+  "https://www.nan.usace.army.mil/Missions/Regulatory/Regulatory-Public-Notices/": "c830386f2130f704ae00072522c43e31b29326281fd9e1ee57e7d0ff44218028"
+}
